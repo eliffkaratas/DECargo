@@ -1,6 +1,5 @@
 # DECargo
 Object-Oriented Programming in Java
-In this homework, implement a Cargo Management program that will be used by "Dokuz Eylul Cargo - DECargo". 
 
 The software has to include some entities to handle the records of offices, employees, customers, packets, etc.
 
